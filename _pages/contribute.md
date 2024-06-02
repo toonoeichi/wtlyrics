@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: Contribute to What the Lyrics?
 permalink: /contribute
 ---
 
